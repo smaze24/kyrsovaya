@@ -18,6 +18,7 @@ c = conn.cursor()
 
 from PyQt6 import QtCore, QtGui, QtWidgets
 
+print(1)
 class Ui_Form(object):
     def setupUi(self, Form):
         Form.setObjectName("Form")
